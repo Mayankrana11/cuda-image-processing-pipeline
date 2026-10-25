@@ -2,7 +2,6 @@
 bin/
 *.o
 *.d
-*.pgm
 execution_log.txt
 __pycache__/
 *.pyc
