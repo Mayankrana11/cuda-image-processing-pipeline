@@ -1,0 +1,9 @@
+# Git ignore file for CUDA image pipeline project
+bin/
+*.o
+*.d
+*.pgm
+execution_log.txt
+__pycache__/
+*.pyc
+.DS_Store
